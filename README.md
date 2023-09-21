@@ -29,7 +29,9 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="aws" width="40" height="40"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/blog/wp-content/uploads/2020/04/jquery.png" alt="JQuery" width="40" height="40"/> </a> 
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshragam&show_icons=true&locale=en&layout=compact" alt="sureshragam" /></p>
