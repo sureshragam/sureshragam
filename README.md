@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshragam&label=Profile%20views&color=0e75b6&style=flat" alt="sureshragam" /> </p>
 
-- 🌱 I’m currently learning **Java Fullstack**
+- 🌱 I’m currently working as **React Developer**
 
 - 💬 Ask me about **MERN Stack, Python, AWS**
 
